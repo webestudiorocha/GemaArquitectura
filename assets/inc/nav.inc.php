@@ -13,8 +13,8 @@ $funciones_nav = new Clases\PublicFunction();
             <div class="top-bar-inner-wrap">
                 <div class="top-bar-content">
                     <div class="inner">
-                        <span class="address content">Porteña, Córdoba</span>
-                        <span class="phone content">11111</span>
+                        <span class="address content">Roque Sáenz Peña 450, Porteña, Córdoba</span>
+                        <span class="phone content">03564 - 452050/624956</span>
                     </div>
                 </div><!-- /.top-bar-content -->
 
@@ -22,7 +22,7 @@ $funciones_nav = new Clases\PublicFunction();
                     <div class="inner">
                         <span class="text">Seguinos</span>
                         <span class="icons">
-                                    <a href="https://www.facebook.com/pages/category/Product-Service/Gema-Arquitectura-y-Construcci%C3%B3n-323910314828274/" target="_blank"><i class="fa fa-facebook"></i></a>
+                                    <a href="https://www.facebook.com/Gema-Arquitectura-y-Construcci%C3%B3n-323910314828274" target="_blank"><i class="fa fa-facebook"></i></a>
                                     <a href="#"><i class="fa fa-instagram"></i></a>
                                 </span>
                     </div>

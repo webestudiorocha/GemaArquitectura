@@ -62,7 +62,7 @@ $template->themeInit();
                                 </div><!-- /.post-excerpt -->
                                 <div class="post-tags-socials">
                                     <div class="post-socials ">
-                                        <a href="#" class="facebook"><span class="fa fa-facebook-square"></span></a>
+                                        <a href="https://www.facebook.com/Gema-Arquitectura-y-Construcci%C3%B3n-323910314828274" target="_blank" class="facebook"><span class="fa fa-facebook-square"></span></a>
                                         <a href="#" class="instagram"><span class="fa fa-instagram"></span></a>
                                     </div>
                                 </div>
@@ -82,7 +82,7 @@ $template->themeInit();
                                 <div class="follow-item facebook">
                                     <div class="inner">
                                         <span class="socials">
-                                            <a href="#"><i class="fa fa-facebook"></i></a>
+                                            <a href="https://www.facebook.com/Gema-Arquitectura-y-Construcci%C3%B3n-323910314828274" target="_blank"><i class="fa fa-facebook"></i></a>
                                         </span>
                                     </div>
                                 </div>
