@@ -9,8 +9,8 @@ $novedades = new Clases\Novedades();
 $sliders = new Clases\Sliders();
 $contenido= new Clases\Contenidos();
 $template->set("title", TITULO . " | Contacto");
-$template->set("description", "Contacto de gema, contacto de arquitectos en brikmann, contacto de constructores en brikmann " . TITULO);
-$template->set("keywords", "Contacto de gema, contacto de arquitectos en brikmann, contacto de constructores en brikmann, gema, arquitectos, constructores " . TITULO);
+$template->set("description", "Contacto de gema, contacto de arquitectos en porteña, contacto de constructores en porteña " . TITULO);
+$template->set("keywords", "Contacto de gema, contacto de arquitectos en porteña, contacto de constructores en porteña, gema, arquitectos, constructores " . TITULO);
 $template->set("body", "header-fixed page no-sidebar header-style-2 topbar-style-1 menu-has-search");
 $enviar = new Clases\Email();
 $template->themeInit();
@@ -114,8 +114,6 @@ $template->themeInit();
                                                           title="asunto" value="<?= CANONICAL ?>"/>
                                                    <input type="email"  id="email" name="email" value="" class="wpcf7-form-control" placeholder=" Email" required>
                                                    <input type="text"  id="telefono" name="telefono" value="" class="wpcf7-form-control" placeholder="Telefono">
-
-
 
                                                    <textarea name="consulta"   id="comment" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" placeholder="Consulta" required ></textarea>
 

@@ -4,8 +4,8 @@ Config\Autoload::runSitio();
 $template = new Clases\TemplateSite();
 $template->set("title", TITULO . ' | Servicios');
 $template->set("imagen", LOGO);
-$template->set("keywords", "Servicios de " . TITULO);
-$template->set("description", "Servicios de " . TITULO);
+$template->set("keywords", "Servicios de gema arquitectura y construccion, gema , gema arquitectura, gema contruccion, arquitectos, contruccion" . TITULO);
+$template->set("description", "Servicios de gema arquitectura y construccion, gema , gema arquitectura, gema contruccion, arquitectos, contruccion " . TITULO);
 $template->set("body", "header-fixed page no-sidebar header-style-2 topbar-style-1 menu-has-search");
 $template->themeInit();
 //Clases

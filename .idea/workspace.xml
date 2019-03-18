@@ -2,76 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d1484b3-5e76-44ee-8b11-e9d1c7208bc7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/CHANGES.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/af.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/az.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/de-ch.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/en-au.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/en-gb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/es-mx.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/eu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/fo.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/oc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/tt.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/GeMa Logotipo fondo amarillo - copia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/GeMa Logotipo fondo amarillo - copia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/inc/footer.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/assets/inc/footer.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogs.php" beforeDir="false" afterPath="$PROJECT_DIR$/blogs.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contacto.php" beforeDir="false" afterPath="$PROJECT_DIR$/contacto.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contenido.php" beforeDir="false" afterPath="$PROJECT_DIR$/contenido.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolios.php" beforeDir="false" afterPath="$PROJECT_DIR$/portfolios.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/servicios.php" beforeDir="false" afterPath="$PROJECT_DIR$/servicios.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,14 +21,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contacto.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="130" selection-start-line="130" selection-end-line="130" />
+            <state relative-caret-position="272">
+              <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/inc/footer.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="82" selection-start-line="82" selection-end-line="82" />
               <folding>
-                <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="181" column="84" lean-forward="true" selection-start-line="181" selection-start-column="84" selection-end-line="181" selection-end-column="84" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blogs.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/servicios.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contenido.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -97,7 +89,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>cat</find>
       <find>html</find>
       <find>Design - bu</find>
       <find>list</find>
@@ -127,6 +118,7 @@
       <find>producto</find>
       <find>pro</find>
       <find>ars</find>
+      <find>product</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -158,7 +150,6 @@
         <option value="$PROJECT_DIR$/page-projects.html" />
         <option value="$PROJECT_DIR$/servicio.php" />
         <option value="$PROJECT_DIR$/productos.php" />
-        <option value="$PROJECT_DIR$/servicios.php" />
         <option value="$PROJECT_DIR$/admin/inc/servicios/modificar.php" />
         <option value="$PROJECT_DIR$/producto.php" />
         <option value="$PROJECT_DIR$/Clases/Conexion.php" />
@@ -170,18 +161,19 @@
         <option value="$PROJECT_DIR$/Clases/TemplateSite.php" />
         <option value="$PROJECT_DIR$/assets/inc/header.inc.php" />
         <option value="$PROJECT_DIR$/.htaccess" />
-        <option value="$PROJECT_DIR$/portfolios.php" />
         <option value="$PROJECT_DIR$/Clases/Portfolio.php" />
         <option value="$PROJECT_DIR$/portfolio.php" />
         <option value="$PROJECT_DIR$/admin/inc/nav.inc.php" />
         <option value="$PROJECT_DIR$/Clases/Email.php" />
         <option value="$PROJECT_DIR$/assets/inc/nav.inc.php" />
         <option value="$PROJECT_DIR$/blog.php" />
-        <option value="$PROJECT_DIR$/blogs.php" />
-        <option value="$PROJECT_DIR$/assets/inc/footer.inc.php" />
-        <option value="$PROJECT_DIR$/contenido.php" />
         <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assets/inc/footer.inc.php" />
+        <option value="$PROJECT_DIR$/portfolios.php" />
+        <option value="$PROJECT_DIR$/servicios.php" />
+        <option value="$PROJECT_DIR$/contenido.php" />
         <option value="$PROJECT_DIR$/contacto.php" />
+        <option value="$PROJECT_DIR$/blogs.php" />
       </list>
     </option>
   </component>
@@ -196,7 +188,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,34 +203,18 @@
             <path>
               <item name="GemaArquitectura" type="b2602c69:ProjectViewProjectNode" />
               <item name="GemaArquitectura" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-              <item name="inc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GemaArquitectura" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GemaArquitectura" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GemaArquitectura" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GemaArquitectura" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="inc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GemaArquitectura" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GemaArquitectura" type="462c0819:PsiDirectoryNode" />
-              <item name="Clases" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="Z:/GemaIndoors" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -291,18 +266,19 @@
       <workItem from="1552510843444" duration="3175000" />
       <workItem from="1552516981047" duration="978000" />
       <workItem from="1552651471780" duration="9490000" />
-      <workItem from="1552910918622" duration="46000" />
+      <workItem from="1552910918622" duration="368000" />
+      <workItem from="1552912203611" duration="4545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138577000" />
+    <option name="totallyTimeSpent" value="143444000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18835099" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1913767" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -395,17 +371,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="6173" column="1" selection-start-line="6173" selection-start-column="1" selection-end-line="6173" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/servicios.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="58" column="127" selection-start-line="58" selection-start-column="127" selection-end-line="58" selection-end-column="127" />
-          <folding>
-            <element signature="n#style#0;n#h1#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -562,16 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolios.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-85">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <element signature="e#3745#3835#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Clases/Email.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
@@ -610,13 +565,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/inc/footer.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1428">
-          <caret line="84" column="111" selection-start-line="84" selection-start-column="111" selection-end-line="84" selection-end-column="111" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1428">
@@ -624,31 +572,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blogs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2295">
-          <caret line="135" column="131" selection-start-line="135" selection-start-column="131" selection-end-line="135" selection-end-column="131" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/admin/inc/nav.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="64" selection-start-line="1" selection-start-column="64" selection-end-line="1" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="130" column="75" lean-forward="true" selection-start-line="130" selection-start-column="75" selection-end-line="130" selection-end-column="75" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contenido.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="78" column="152" selection-start-line="78" selection-start-column="79" selection-end-line="78" selection-end-column="152" />
         </state>
       </provider>
     </entry>
@@ -666,13 +593,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contacto.php">
+    <entry file="file://$PROJECT_DIR$/assets/inc/footer.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="82" selection-start-line="82" selection-end-line="82" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#2;n#div#0;n#div#0;n#footer#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="158" selection-start-line="7" selection-start-column="158" selection-end-line="7" selection-end-column="158" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="181" column="84" lean-forward="true" selection-start-line="181" selection-start-column="84" selection-end-line="181" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servicios.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contenido.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="130" selection-start-line="130" selection-end-line="130" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="2" lean-forward="true" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blogs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
