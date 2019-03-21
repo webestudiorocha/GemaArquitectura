@@ -19,7 +19,6 @@ $filter = array("area='portfolios'");
 $categoria_data = $categorias->list($filter);
 
 
-
 $cantidad = 9;
 if ($pagina > 0) {
     $pagina = $pagina - 1;
@@ -46,7 +45,7 @@ $numeroPaginas = $portfolios->paginador("", $cantidad);
 
             <!-- Featured Title -->
             <div id="featured-title" class="featured-title clearfix text-center">
-                <h1 style="padding-top: 20px !important;">Portfolios</h1>
+                <h1 style="padding-top: 60px !important;">Portfolios</h1>
             </div>
             <!-- End Featured Title -->
 
@@ -128,7 +127,9 @@ $numeroPaginas = $portfolios->paginador("", $cantidad);
                                                             <?php endif; ?>
                                                         </ul>
                                                     </div>
+
                                                 <?php endif; ?>
+
                                                 <div class="themesflat-spacer clearfix" data-desktop="72"
                                                      data-mobile="60" data-smobile="60"></div>
                                             </div><!-- /.col-md-12 -->

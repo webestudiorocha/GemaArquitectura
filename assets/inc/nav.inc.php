@@ -1,8 +1,4 @@
 <?php
-$id = isset($_GET["id"]) ? $_GET["id"] : '';
-$servicio = new Clases\Servicios();
-$servicio->set("cod", $id);
-$servicio_data = $servicio->lista("", "", "");
 $funciones_nav = new Clases\PublicFunction();
 ?>
 
@@ -58,8 +54,8 @@ $funciones_nav = new Clases\PublicFunction();
                         <li class="menu-item menu-item-has-children <?php if(strpos(CANONICAL,"servicios")) { echo "current-menu-item"; } ?>">
                             <a href="<?= URL; ?>/servicios">Servicios</a>
                         </li>
-                        <li class="menu-item menu-item-has-children <?php if(strpos(CANONICAL,"productos")) { echo "current-menu-item"; } ?>">
-                            <a href="<?= URL; ?>/portfolios">Portfolio</a>
+                        <li class="menu-item menu-item-has-children <?php if(strpos(CANONICAL,"portfolios")) { echo "current-menu-item"; } ?>">
+                            <a href="<?= URL; ?>/portfolios">Portfolios</a>
                         </li>
                         <li class="menu-item menu-item-has-children <?php if(strpos(CANONICAL,"blogs")) { echo "current-menu-item"; } ?>">
                             <a href="<?= URL; ?>/blogs">Blog</a>
